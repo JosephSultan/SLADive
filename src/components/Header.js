@@ -26,11 +26,11 @@ function Header() {
           <p className="nav-item">Product</p>
           <p className="nav-item">Customers</p>
           <p className="nav-item">Pricing</p>
-          <p className="nav-item">Resouces</p>
+          <p className="nav-item">Contact</p>
           {/* </div> */}
 
-          <button className="secondary-button">Sign in</button>
-          <button className="primary-button">Sign up</button>
+          <button className="secondary-button">View on Intercom</button>
+          <button className="primary-button">Request a Demo</button>
         </div>
       </div>
     </header>
