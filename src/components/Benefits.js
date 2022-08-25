@@ -7,21 +7,14 @@ function Benefits() {
     <section className="container mt-24 space-y-24">
       <BenefitItem
         image="./images/benefit-1.svg"
-        heading1="Effortless Validation for"
-        heading2="Management"
-        description="The Myspace page defines the individual, his or her characteristics,
-      traits, personal choices and the overall personality of the person."
+        heading1="Unlimited Power for"
+        heading2="your CS Reports"
+        description="SLA Dive provides you with ready-made powerful Google Sheets Dashboards to track the right metrics!
         Content={() => (
           <div>
-            <h5 className="mt-6 mb-2 font-semibold">Accessory makers</h5>
+            <h5 className="mt-6 mb-2 font-semibold">Customisable reports</h5>
             <p>
-              While most people enjoy casino gambling, sports betting, lottery
-              and bingo playing for the fun
-            </p>
-            <h5 className="mt-6 mb-2 font-semibold">Alterationists</h5>
-            <p>
-              If you are looking for a new way to promote your business that
-              won’t cost you more money,
+              Track the performance of SLAs coherently and seperately hourly, daily or weekly! 
             </p>
           </div>
         )}
@@ -29,22 +22,22 @@ function Benefits() {
 
       <BenefitItem
         image="./images/benefit-2.svg"
-        heading1="Easier decision making for"
-        heading2="Customer Support"
-        description="The Myspace page defines the individual, his or her characteristics, traits, personal choices and the overall personality of the person. "
+        heading1="Facilitate your"
+        heading2="Deep Dives"
+        description="SLA Dives exports all the hit SLAs to allow you deep dive into them easily! "
         Content={() => (
           <div className="flex flex-col space-y-6">
             <CheckedItem
               bgColor="#FF9900"
-              text="Never worry about overpaying for your energy again."
+              text="Never wonder why your SLA performance isn't as expected anymore."
             />
             <CheckedItem
               bgColor="#F03E3D"
-              text="We will only switch you to energy companies that we trust and will treat you right"
+              text="Deep dive easily"
             />
             <CheckedItem
               bgColor="#4D8DFF"
-              text="We track the markets daily and know where the savings are."
+              text="Customise your reports unlimitely."
             />
           </div>
         )}
@@ -52,20 +45,14 @@ function Benefits() {
 
       <BenefitItem
         image="./images/benefit-3.svg"
-        heading1="Optimisation for"
-        heading2="Collaborative"
-        description="Few would argue that, despite the advancements of feminism over the past three decades, women still face a double standard when it comes to their behavior. "
+        heading1="Keep your team accountable with"
+        heading2="Slack Integration"
+        description="Integrate with Slack to send a notification message to your channels whenever an SLA is hit"
         Content={() => (
           <div>
-            <h5 className="mt-6 mb-2 font-semibold">Accessory makers</h5>
+            <h5 className="mt-6 mb-2 font-semibold">Take action proactively</h5>
             <p>
-              While most people enjoy casino gambling, sports betting, lottery
-              and bingo playing for the fun
-            </p>
-            <h5 className="mt-6 mb-2 font-semibold">Alterationists</h5>
-            <p>
-              If you are looking for a new way to promote your business that
-              won’t cost you more money,
+              While deep dive is important, it's better to save your SLAs on the spot!
             </p>
           </div>
         )}
