@@ -8,7 +8,7 @@ function Hero() {
       <div className="md:max-w-[50%]">
         <img src="./images/amico.svg" alt="hero" />
       </div>
-
+    
        {/* text section */}
       <div className="text-center sm:text-left md:max-w-[40%]">
         <h1 className="font-bold text-4xl leading-[60px]">
@@ -17,9 +17,9 @@ function Hero() {
         <p className="mt-4 text-[18px] leading-[28px] font-normal">
           Integrate Intercom and Google Sheets to export all the missed SLA conversations and have in depth analysis of your SLA performance hourly.
         </p>
-        </p>
         <div className="mt-8 flex items-center justify-around sm:justify-start sm:space-x-8">
           <button className="primary-button">Request a Demo</button> 
+      </div>
       </div>
     </main>
   );
