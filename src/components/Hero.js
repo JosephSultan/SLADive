@@ -21,7 +21,7 @@ function Hero() {
           <button className="primary-button">Get Started</button>
           <p className="font-semibold text-primary whitespace-nowrap flex items-center underline hover:scale-110 active:scale-95 duration-200 cursor-pointer">
             <PlayIcon className="h-8" />
-            Watch the Video
+                            
           </p>
         </div>
       </div>
