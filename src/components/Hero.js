@@ -19,8 +19,7 @@ function Hero() {
         </p>
         <div className="mt-8 flex items-center justify-around sm:justify-start sm:space-x-8">
           <button className="primary-button">Request a Demo</button>
-          </p>
-        </div>
+         </p>
       </div>
     </main>
   );
