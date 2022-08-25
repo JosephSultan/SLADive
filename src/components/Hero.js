@@ -9,13 +9,14 @@ function Hero() {
         <img src="./images/amico.svg" alt="hero" />
       </div>
 
-    {/* text section */}
+       {/* text section */}
       <div className="text-center sm:text-left md:max-w-[40%]">
-        <h1 className="font-bold text-5xl leading-[60px]">
-          Take your SLA game to the next level
+        <h1 className="font-bold text-4xl leading-[60px]">
+           Take your SLA game to the next level
         </h1>
         <p className="mt-4 text-[18px] leading-[28px] font-normal">
-          TIntegrate Intercom and Google Sheets to export all the missed SLA conversations and have in depth analysis of your SLA performance hourly.
+          Integrate Intercom and Google Sheets to export all the missed SLA conversations and have in depth analysis of your SLA performance hourly.
+        </p>
         </p>
         <div className="mt-8 flex items-center justify-around sm:justify-start sm:space-x-8">
           <button className="primary-button">Request a Demo</button>
