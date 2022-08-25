@@ -9,7 +9,7 @@ function Benefits() {
         image="./images/benefit-1.svg"
         heading1="Unlimited Power for"
         heading2="your CS Reports"
-        description="SLA Dive provides you with ready-made powerful Google Sheets Dashboards to track the right metrics!
+        description="SLA Dive provides you with ready-made powerful Google Sheets Dashboards to track the right metrics!"
         Content={() => (
           <div>
             <h5 className="mt-6 mb-2 font-semibold">Customisable reports</h5>
