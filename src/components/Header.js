@@ -29,9 +29,8 @@ function Header() {
           <p className="nav-item">Contact</p>
           {/* </div> */}
 
-          <button className="secondary-button">View on Intercom</button>
-          <a href="https://en.wikipedia.org/wiki/Enneagram_of_Personality"<<button className="primary-button">Request a Demo</button>
-          <a href="https://en.wikipedia.org/wiki/Enneagram_of_Personality"><button>Visit Page Now</button></a>
+          <button className="primary-button">View on Intercom</button>
+    
 
         </div>
       </div>
