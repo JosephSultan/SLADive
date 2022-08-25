@@ -31,6 +31,8 @@ function Header() {
 
           <button className="secondary-button">View on Intercom</button>
           <button className="primary-button">Request a Demo</button>
+          <a href="https://en.wikipedia.org/wiki/Enneagram_of_Personality"><button>Visit Page Now</button></a>
+
         </div>
       </div>
     </header>
