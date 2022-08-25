@@ -12,17 +12,14 @@ function Hero() {
        {/* text section */}
       <div className="text-center sm:text-left md:max-w-[40%]">
         <h1 className="font-bold text-4xl leading-[60px]">
-          Work at the speed of thought
+          Take your SLA game to the next level
         </h1>
         <p className="mt-4 text-[18px] leading-[28px] font-normal">
-          Tools, tutorials, design and innovation experts, all in one place! The
-          most intuitive way to imagine your next user experience.
+          Integrate Intercom and Google Sheets to export all the missed SLA conversations and have in depth analysis of your SLA performance hourly.
         </p>
         <div className="mt-8 flex items-center justify-around sm:justify-start sm:space-x-8">
-          <button className="primary-button">Get Started</button>
-          <p className="font-semibold text-primary whitespace-nowrap flex items-center underline hover:scale-110 active:scale-95 duration-200 cursor-pointer">
-            <PlayIcon className="h-8" />
-            Watch the Video
+          <button className="primary-button">Request a Demo</button>
+
           </p>
         </div>
       </div>
