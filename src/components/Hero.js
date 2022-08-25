@@ -19,9 +19,7 @@ function Hero() {
         </p>
         <div className="mt-8 flex items-center justify-around sm:justify-start sm:space-x-8">
           <button className="primary-button">Get Started</button>
-          <p className="font-semibold text-primary whitespace-nowrap flex items-center underline hover:scale-110 active:scale-95 duration-200 cursor-pointer">
-            <PlayIcon className="h-8" />
-                            
+          <p className="font-semibold text-primary whitespace-nowrap flex items-center underline hover:scale-110 active:scale-95 duration-200 cursor-pointer">           
           </p>
         </div>
       </div>
