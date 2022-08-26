@@ -21,10 +21,6 @@ function App() {
 
       <Benefits/>
 
-      <OurExperts/>
-
-      <Blogs/>
-
       <PriceTable/>
 
       <Testimonials/>
